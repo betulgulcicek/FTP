@@ -1,0 +1,3 @@
+Dosya aktarim iletişim kurali,
+ (Ingilizce: File Transfer Protocol; FTP), bir veri yiğininin - ASCII, EBCDIC, ve binary- bir uc aygittan diğerine iletimi icin kullanilmaktadir.
+Bir dosyayi FTP kullanarak başka bir TCP/IP aği uzerindeki kullaniciya yollamak icin o ağdaki bilgisayarda gecerli bir kullanici ismi ve şifresi gerekmektedir. Bircok FTP sunucusu, kullanici ismi ve parola olmadan erişim icin "anonim FTP" (anonymous FTP) desteği verir, bu kullanim icin kullanici adi olarak anonymous parola olarak ise bir e-mail adresi girilmesi gerekmektedir
